@@ -1,0 +1,22 @@
+Books to Scrape — EDA Summary
+
+Dataset:
+20-book working sample from Books to Scrape.
+
+Key Metrics:
+Records: 20
+Average Price: £38.05
+Median Price: £41.38
+Price Range: £13.99 – £57.25
+Average Rating: 2.85/5
+In-stock Rate: 100.0%
+Price-Rating Correlation: -0.076
+IQR Price Outliers: 0
+
+Key Findings:
+1. The sample mean price is £38.05 while the median is £41.38.
+2. All 20 sample records are marked as in stock.
+3. The price-rating correlation is -0.076.
+4. No price observations are flagged using the 1.5×IQR rule.
+5. Books to Scrape states that its prices and ratings are randomly assigned for demonstration purposes,
+so these results should be treated as an educational analytics demonstration rather than real market intelligence.
